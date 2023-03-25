@@ -29,7 +29,7 @@ Obs.: Las publicaciones pueden ser vistas por cualquiera inclusive sin estar reg
 ### 	:pushpin:Contacto
 Si tienes alguna duda o sugerencia sobre este proyecto, no dudes en ponerte en contacto con nosotros:
 
-- Geronimo Tilleria: Correo: gtilleria39@gmail.com | GitHub: https://github.com/GeronimoTilleria
-- Victor Casco: Correo: cascoalmada@gmail.com | GitHub: https://github.com/VictorCasco-PY
+- Geronimo Tilleria(Frontend): Correo: gtilleria39@gmail.com | GitHub: https://github.com/GeronimoTilleria
+- Victor Casco(Backend): Correo: cascoalmada@gmail.com | GitHub: https://github.com/VictorCasco-PY
 
 Estaremos encantados de escuchar tus comentarios y responder tus preguntas. ¡Gracias por tu interés!
