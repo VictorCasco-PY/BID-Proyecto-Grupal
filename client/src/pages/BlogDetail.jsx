@@ -52,7 +52,7 @@ const BlogDetail = () => {
               </Link>
             </div>
           )}
-          <img className='w-100 object-fit-cover mt-5' src={`http://localhost:4000/${postInfo.cover}`} alt="imagen" />
+          <img className='w-100 object-fit-cover mt-5 img-detail' src={`http://localhost:4000/${postInfo.cover}`} alt="imagen" />
           <div className="mt-5" dangerouslySetInnerHTML={{ __html: postInfo.content }} />
         </div>
       </div>

@@ -35,7 +35,7 @@ const Navigation = () => {
                     <Link className='link-header' to='/'>Inicio</Link>
                 </li>
                 <li>
-                    <Link className='link-header' to='/blogs'>Blogs</Link>
+                    <Link className='link-header' to='/blogs'>Blog</Link>
                 </li>
                 <li>
                     <Link className='link-header' to='/about'>Acerca de</Link>

@@ -11,21 +11,16 @@ const AboutUs = () => {
         <div className='about-content mt-5 gap-5'>
           <img className='w-100 object-fit-cover' src={require('../assets/images/image-about-us.jpg')} alt="" />
           <div>
-            <p className='mb-0'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit
-              libero non sapien porta lacinia non eget justo. Praesent eu imperdiet lacus.
-              Donec ac odio nec diam porttitor mollis. Mauris viverra cursus felis sed accumsan.
-              Aliquam elementum massa a porttitor lobortis. Duis et metus neque. Morbi eget
-              feugiat sem. Cras massa magna, tincidunt maximus porttitor vel, elementum non diam.
-              Curabitur tincidunt rhoncus felis sit amet egestas. Duis nisl quam, vehicula sed sagittis sed,
-              sagittis vitae quam. Integer feugiat diam risus, non porttitor mi rutrum sit amet.
-              Donec id dui a lectus commodo tincidunt a at lectus. Integer ex urna, placerat sit amet
-              placerat vel, pellentesque sed dui. Curabitur ullamcorper iaculis nibh ut luctus. Nullam feugiat,
-              nunc non tincidunt fermentum, nibh ex mattis dolor, et scelerisque mauris est vitae eros. Curabitur
-              eget pulvinar dolor. Nullam feugiat posuere velit ac fermentum. Nunc molestie auctor lectus, eget
-              ullamcorper sapien faucibus faucibus. Sed venenatis nunc eget feugiat sodales. Nulla vel odio erat.
-              Nam tempus tortor quis dictum aliquam. Suspendisse neque urna, mollis eu luctus quis, ultrices non ex.
-              Vestibulum semper massa mauris, egestas volutpat tortor dictum at. Nam vitae leo nisl. Quisque scelerisque
-              vestibulum risus, et finibus neque porta rhoncus.</p>
+            <p className='mb-0'>En Blog de Futbol, creemos que el futbol es más que un simple deporte. Es una pasión, 
+            una forma de vida, que une a personas de diferentes culturas y orígenes en todo el mundo. Es por eso que 
+            nuestro blog está diseñado para satisfacer las necesidades de los fanáticos del futbol de todas partes, 
+            desde los recién llegados hasta los expertos. Nuestro objetivo es proporcionar a nuestros lectores información 
+            precisa y actualizada sobre el mundo del futbol, de una manera accesible y fácil de entender. Nos aseguramos de 
+            estar al tanto de las últimas tendencias y novedades en el mundo del futbol, y compartimos nuestras ideas y 
+            opiniones con nuestros lectores de una manera clara y concisa. Además de ofrecer noticias y análisis de calidad, 
+            también nos enorgullece crear una comunidad en línea de fanáticos del futbol. Nuestros lectores son bienvenidos 
+            a participar en discusiones y debates sobre diferentes temas relacionados con el futbol, y estamos siempre abiertos 
+            a sugerencias y comentarios sobre cómo mejorar nuestra plataforma..</p>
           </div>
         </div>
 

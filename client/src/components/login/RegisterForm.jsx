@@ -29,25 +29,25 @@ const RegisterForm = () => {
 
     return (
         <div className="main-container login-form d-flex flex-column justify-content-center">
-            <div className="card p-4">
-                <h1>Register</h1>
+            <div className="card p-5">
+                <h2>Registrarse</h2>
                 <form className="register" onSubmit={handleRegister}>
                     {error && <div className="error">{error}</div>}
                     <input
                         type="text"
-                        placeholder="Username"
+                        placeholder="Nombre de usuario"
                         value={username}
-                        className="form-control"
+                        className="form-control mt-4"
                         onChange={(ev) => setUsername(ev.target.value)}
                     />
                     <input
                         type="password"
-                        placeholder="Password"
+                        placeholder="Contraseña"
                         value={password}
-                        className="form-control"
+                        className="form-control mt-4"
                         onChange={(ev) => setPassword(ev.target.value)}
                     />
-                    <button className="btn btn-secondary mt-4">Register</button>
+                    <button className="btn btn-secondary mt-4">Registrar</button>
                 </form>
             </div>
         </div>
