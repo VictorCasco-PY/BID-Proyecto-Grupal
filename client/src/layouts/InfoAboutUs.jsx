@@ -15,9 +15,10 @@ const InfoAboutUs = () => {
                         <line x1="12" y1="5" x2="12" y2="19" />
                     </svg>
                     <h3>Futbol</h3>
-                    <p className='mt-4'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel dolor nec
-                        enim imperdiet vehicula et non turpis. Pellentesque sollicitudin tincidunt volutpat. Sed
-                        fringilla quam at elit gravida, et pretium nulla pretium. </p>
+                    <p className='mt-4'>El fútbol no es solo un juego. También es una forma de unir a las personas de 
+                    todo el mundo y promover la amistad y la comprensión entre las culturas. Los partidos de fútbol 
+                    pueden ser una ocasión para reunirse con amigos y familiares, disfrutar de la emoción del juego y 
+                    apoyar a su equipo favorito.</p>
                 </div>
                 <div>
                     <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-news" width="100" height="100" viewBox="0 0 24 24" strokeWidth="1" stroke="#009988" fill="none" strokeLinecap="round" strokeLinejoin="round">
@@ -28,9 +29,9 @@ const InfoAboutUs = () => {
                         <line x1="8" y1="16" x2="12" y2="16" />
                     </svg>
                     <h3>Novedades</h3>
-                    <p className='mt-4'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel dolor nec
-                        enim imperdiet vehicula et non turpis. Pellentesque sollicitudin tincidunt volutpat. Sed
-                        fringilla quam at elit gravida, et pretium nulla pretium. </p>
+                    <p className='mt-4'>Contenido de calidad sobre una amplia variedad de temas, desde deportes hasta 
+                    tecnología, pasando por estilo de vida y salud. Nos esforzamos por ofrecer artículos interesantes y 
+                    útiles para nuestros lectores, con un enfoque en la calidad y la originalidad.</p>
                 </div>
                 <div>
                     <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-book" width="100" height="100" viewBox="0 0 24 24" strokeWidth="1" stroke="#009988" fill="none" strokeLinecap="round" strokeLinejoin="round">
@@ -42,9 +43,10 @@ const InfoAboutUs = () => {
                         <line x1="21" y1="6" x2="21" y2="19" />
                     </svg>
                     <h3>Informativo</h3>
-                    <p className='mt-4'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel dolor nec
-                        enim imperdiet vehicula et non turpis. Pellentesque sollicitudin tincidunt volutpat. Sed
-                        fringilla quam at elit gravida, et pretium nulla pretium. </p>
+                    <p className='mt-4'>Aquí encontrarás noticias de última hora, análisis de partidos, entrevistas 
+                    exclusivas con jugadores y entrenadores, y todo lo que necesitas saber sobre el mundo del futbol. 
+                    Somos un equipo de escritores apasionados por el futbol, y estamos dedicados a brindar a nuestros 
+                    lectores información precisa, objetiva y actualizada.  </p>
                 </div>
             </div>
         </div>

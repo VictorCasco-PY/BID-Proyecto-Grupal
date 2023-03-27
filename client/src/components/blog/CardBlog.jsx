@@ -11,7 +11,7 @@ const CardBlog = ({ _id, title, summary, cover, content, createdAt, author }) =>
                 <img src={'http://localhost:4000/' + cover} className="card-img-top" alt="imagen ref" />
                 <div className="card-body h-100 d-flex flex-column justify-content-between">
                     <div>
-                        <h5 className="card-title">{title}</h5>
+                        <h5 className="card-title text-bold">{title}</h5>
                         <span>{author.username}</span>
                         <time>  {moment(createdAt).fromNow()}</time>
                         <hr />

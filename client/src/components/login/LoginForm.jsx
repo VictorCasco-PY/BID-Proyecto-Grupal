@@ -43,7 +43,7 @@ const LoginForm = () => {
     return (
         <div className='main-container login-form d-flex flex-column justify-content-center' >
             <div className="card p-5">
-                <form className="mt-5" onSubmit={handleSubmit}>
+                <form onSubmit={handleSubmit}>
                     <h3>Inicio de Sesión</h3>
 
                     <label htmlFor="username" className="form-label">Usuario</label>

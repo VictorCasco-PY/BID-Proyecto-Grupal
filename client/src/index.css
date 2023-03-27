@@ -135,6 +135,9 @@ code {
   object-fit: cover;
 }
 
+.text-bold{
+  font-weight: bold;
+}
 .summary {
   width: 20rem;
   height: 3rem;
@@ -148,6 +151,10 @@ code {
   -webkit-line-clamp: 2;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+.img-detail {
+  height: 40rem;
 }
 
 input {
